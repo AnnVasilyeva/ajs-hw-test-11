@@ -1,4 +1,4 @@
-import getHealth from '../app.js';
+import getHealth from '../app';
 
 test('проверка индикации жизни при здоровье 50', () => {
   const gamer = { name: 'Маг', health: 50 };
